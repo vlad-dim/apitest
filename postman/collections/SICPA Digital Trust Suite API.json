@@ -680,7 +680,7 @@
 						],
 						"body": {
 							"mode": "raw",
-							"raw": "{\n  \"name\": \"<string>\",\n  \"imageUrl\": \"<string>\"\n}",
+							"raw": "{\n  \"name\": \"<string>\",\n  \"imageUrl1\": \"<string>\",\n  \"imageUrl2\": \"<string>\",\n  \"imageUrl3\": \"<string>\",\n  \"imageUrl1231\": \"<string>\",\n  \"imageUrl1asd\": \"<string>\",\n  \"imageUrl1asd\": \"<string>\"\n  \n}",
 							"options": {
 								"raw": {
 									"headerFamily": "json",
