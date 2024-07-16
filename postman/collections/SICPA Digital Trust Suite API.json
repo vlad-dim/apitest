@@ -24,12 +24,12 @@
 							}
 						],
 						"url": {
-							"raw": "{{baseUrl}}/agents/:agentId",
+							"raw": "{{baseUrl}}/asdfff/:agentId",
 							"host": [
 								"{{baseUrl}}"
 							],
 							"path": [
-								"agents",
+								"asdfff",
 								":agentId"
 							],
 							"variable": [
